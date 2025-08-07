@@ -32,8 +32,7 @@ Se trata de una aplicación web simple desarrollada con **HTML**, **CSS** y **Ja
 
 Puedes visualizar y probar el proyecto directamente desde tu navegador:
 
-👉 [https://yakelin-ai.github.io/Sistema-de-registro/](https://yakelin-ai.github.io/Sistema-de-registro/)
-
+👉 https://yakelin-ai.github.io/Proyecto-amigo-secreto/
 ### 2. Ejecutar el proyecto localmente
 
 Si prefieres ejecutarlo desde tu computadora, sigue estos pasos:
