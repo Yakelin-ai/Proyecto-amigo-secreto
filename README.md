@@ -12,7 +12,7 @@ Se trata de una aplicación web simple desarrollada con **HTML**, **CSS** y **Ja
 ## 🚧 Estado del proyecto
 
 <h4 align="center">
-  🚧 Proyecto en construcción 🚧
+  🚧 Proyecto concluido 🚧
 </h4>
 
 ## ✨ Funcionalidades
